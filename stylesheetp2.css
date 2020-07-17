@@ -1,0 +1,22 @@
+.card {
+	margin-top: 150px;
+	margin-left: 50px;
+	margin-right: 50px;
+}
+h1 {
+	font-family: Castellar;
+	font-size: 50px;
+	text-align: center;
+	margin-top: 100px;
+}
+img {
+	border-width: 20px;
+}	
+body {
+	font-family: Lucida Sans Unicode;
+	background-image: url('https://c4.wallpaperflare.com/wallpaper/408/387/715/dark-3d-red-shards-wallpaper-preview.jpg');
+	background-repeat : no-repeat;
+	background-attachment: fixed;
+	background-size : cover;
+
+}

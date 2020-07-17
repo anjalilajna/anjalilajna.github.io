@@ -1,0 +1,35 @@
+h1,h2 {
+	font-family: Castellar;
+	font-size: 50px;
+	text-align: center;
+	margin-top: 100px;
+
+}
+.card-group {
+	margin-top : 20px;
+	margin-left: 180px;
+}
+body {
+	font-family: garamond;
+	background-image: url('https://eskipaper.com/images/cool-white-wallpaper-2.jpg');
+	background-repeat : no-repeat;
+	background-attachment: fixed;
+	background-size : cover;
+	font-size: 20px;
+}
+.carousel-inner {
+	width: 500px;
+	height: 500px;
+	align-items: center;
+	margin-left: 500px;
+	
+}
+.carousel-control-prev {
+	margin-left: 500px;
+}
+.carousel-control-next {
+	margin-right: 500px;
+}
+.btn btn-primary btn-lg {
+	margin-left: 500px;
+}
